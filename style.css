@@ -60,7 +60,7 @@ main a:hover {
 }
 
 main a::after {
-    content: 🔗;
+    content: "🔗";
     
 }
 header {
