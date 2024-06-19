@@ -220,6 +220,10 @@ aside > iframe {
     columns: 2;
 }
 
+div {
+    padding-bottom: 20px;
+}
+
 #conteudo > p {
     margin: 0px;
     padding: 0px;
